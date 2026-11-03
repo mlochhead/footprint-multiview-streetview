@@ -1,0 +1,12 @@
+# macOS / Python / Jupyter
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Outputs (downloaded images and result CSVs)
+output/
+images*/
+
+# Secrets
+.env

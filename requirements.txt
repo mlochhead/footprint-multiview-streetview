@@ -1,0 +1,9 @@
+geopandas>=0.14
+shapely>=2.0
+pyproj
+numpy
+pandas
+requests
+Pillow
+jupyter
+matplotlib  # only needed if SAVE_DIAGRAMS = True
